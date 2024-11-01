@@ -2,7 +2,7 @@
 
 ## LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
-### Excel Class Activities
+## Excel Tasks
 
 ### Various Excel Tasks explored in the training includes:
 
@@ -54,16 +54,17 @@
 ### In Tasks 4, Pivot Table and Pivot Chart were Created to Summarize and Analyze the Cleaned Data by following the steps below: 
 
 ### Creating a Pivot Table
-- Prepare Your Data
-- Select Your Data
-- Insert a Pivot Table
-- Build the Pivot Table
-- Customize the Pivot Table
+- Preparing the  Data
+- Selecting the prepared Data
+- Inserting a Pivot Table
+- Building the Pivot Table
+- Customizing the Pivot Table
   
-###Creating a Pivot Chart
-- Select the Pivot Table
-- Insert a Pivot Chart
-- Customize the Pivot Chart
-- Interactivity
-- Refresh the Pivot Table
+### Creating a Pivot Chart
+- Selecting the Pivot Table
+- Inserting a Pivot Chart
+- Customizing the Pivot Chart
+- inserting slicers to the pivot charts for Visual filtering
+
+## Power BI Tasks
 
