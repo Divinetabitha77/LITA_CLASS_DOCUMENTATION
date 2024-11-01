@@ -68,3 +68,41 @@
 
 ## Power BI Tasks
 
+### Task 1
+### Task 1 involves importing unclean Dataset into power Bi and cleaning it as describe below: 
+
+Loading the Dataset by Importing it into Power BI using the Get Data feature.
+
+Opening the Power Query Editor by clicking on Transform Data to open the Power Query Editor.
+
+Examining the Data
+
+Removing Unnecessary Column
+
+Renaming Columns
+
+Identifying missing values and decide whether to fill them, remove them, or replace them with default values.
+
+Removing Duplicates
+
+Transforming Data Types
+
+Spliting of columns if necessary (e.g., separating first and last names or dates).
+
+
+Using the Replace Values feature to correct any inaccuracies in your data.
+
+
+Generating new calculated columns if additional insights are needed.
+
+
+Using the Group By feature to aggregate data as required.
+
+
+Applying sorting or filtering to make data review easier.
+
+
+Identifying and removeing any rows with errors in the data.
+
+
+Clicking on Close & Apply to save changes and return to the main Power BI interface.
