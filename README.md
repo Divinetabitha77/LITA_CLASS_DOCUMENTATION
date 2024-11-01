@@ -22,10 +22,15 @@
 - Correcting Errors in Cells
 - Applying Data Validation
 - Removing Unwanted Characters
+  
   ![Text Extraction](https://github.com/user-attachments/assets/23c3eb66-2ac1-4347-9b61-ca9ebb3d157c)
+  
 ![Text Cleaning 4](https://github.com/user-attachments/assets/ca7c06c7-0e08-445d-8269-121126f26c60)
+
 ![Text Cleaning 2](https://github.com/user-attachments/assets/69e6b717-e833-419b-b87a-a4fbcb153a29)
+
 ![Text Cleaning 1](https://github.com/user-attachments/assets/d3909e86-cbe8-47a1-9fe4-b52f0a32fec3)
+
 ![Task Cleaning 3](https://github.com/user-attachments/assets/8837d363-d7b0-4dc9-8cb2-f329edac5c99)
 
 
