@@ -23,4 +23,4 @@
 - Applying Data Validation
 - Removing Unwanted Characters
   
-![project logo](https://github.com/Divinetabitha77/LITA_CLASS_DOCUMENTATION/tree/main)
+https://github.com/Divinetabitha77/LITA_CLASS_DOCUMENTATION/raw/main)
