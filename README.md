@@ -11,7 +11,7 @@
 - Data cleaning and Formating
 - Exploratory Data Analysis for useful insight generation
 
-### Task 1
+### Task 1 Data Cleaning
 ### Task 1 includes Steps involved in data cleaning which is not limited to Removing Duplicates
 - Trimming Extra Spaces
 - Handling Blank Cells
@@ -106,3 +106,22 @@
 
 
 - Clicking on Close & Apply to save changes and return to the main Power BI interface.
+
+  ![Clean HR Data 4](https://github.com/user-attachments/assets/13846aae-a454-4708-ae2a-7529168b7455)
+  
+![HR Data 4 3](https://github.com/user-attachments/assets/d7826501-e236-43ff-a1b7-8c828b6c4cc6)
+
+![HR Data 4 2](https://github.com/user-attachments/assets/bd982b9f-4499-4d5d-90e9-2bd758ff2ef8)
+
+![HR Data 4 1](https://github.com/user-attachments/assets/22a19d95-2930-4c16-a8bc-d770fec9cb3d)
+
+![Clean HR Data 3](https://github.com/user-attachments/assets/4c28684d-76aa-4d47-964c-81236c24c386)
+
+![HR Data 3 2](https://github.com/user-attachments/assets/217e06dd-99d2-45af-8de2-1f67d1038138)
+
+![HR Data 3 1](https://github.com/user-attachments/assets/45419a9a-693d-48ca-8a76-dcea0a196367)
+
+![Clean HR Data 2](https://github.com/user-attachments/assets/2dda39a7-26c1-4da2-b91f-cf0cb5be8d92)
+
+![HR  Data 2 1](https://github.com/user-attachments/assets/29623416-1b3c-47b1-921c-58cac9f2019f)
+
