@@ -33,4 +33,21 @@
 
 ![Task Cleaning 3](https://github.com/user-attachments/assets/8837d363-d7b0-4dc9-8cb2-f329edac5c99)
 
+ ### Task 2
+ ### Basic Functions used for simple calculations and data analysis  and Conditional Functions which is used to perform calculations based on specific conditions were evaluated in Task 2.
+
+ ![Excel conditional Function](https://github.com/user-attachments/assets/fb95128f-b981-4aa4-8271-958a51d757e1)
+ 
+![Basic Excel Function](https://github.com/user-attachments/assets/b71f5f8e-5f45-47f8-8cb2-bdaab56809e8)
+
+### Task 3
+### In Tasks 3, Look up and Reference functions was used to populate the salary compensation schedule from the salary structure chart by the use of INDEX MATCH.
+
+![Salary Compensation Schedule](https://github.com/user-attachments/assets/1de33b16-ae6e-4b64-a706-71cd03b97cc0)
+
+![Salary structure Chart](https://github.com/user-attachments/assets/12eb9867-4c90-410d-ac10-4d5ddf324bd3)
+
+![Populated Salary Compensation Schedule](https://github.com/user-attachments/assets/7c0b3477-531d-46b5-b9e7-951b72f177f6)
+
+
 
