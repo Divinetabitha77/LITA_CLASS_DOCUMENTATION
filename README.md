@@ -50,4 +50,20 @@
 ![Populated Salary Compensation Schedule](https://github.com/user-attachments/assets/7c0b3477-531d-46b5-b9e7-951b72f177f6)
 
 
+### Task 4
+### In Tasks 4, Pivot Table and Pivot Chart were Created to Summarize and Analyze the Cleaned Data by following the steps below: 
+
+### Creating a Pivot Table
+- Prepare Your Data
+- Select Your Data
+- Insert a Pivot Table
+- Build the Pivot Table
+- Customize the Pivot Table
+  
+###Creating a Pivot Chart
+- Select the Pivot Table
+- Insert a Pivot Chart
+- Customize the Pivot Chart
+- Interactivity
+- Refresh the Pivot Table
 
