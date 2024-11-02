@@ -107,21 +107,22 @@
 
 - Clicking on Close & Apply to save changes and return to the main Power BI interface.
 
-  ![Clean HR Data 4](https://github.com/user-attachments/assets/13846aae-a454-4708-ae2a-7529168b7455)
-  
-![HR Data 4 3](https://github.com/user-attachments/assets/d7826501-e236-43ff-a1b7-8c828b6c4cc6)
+![UNCLEAN DATA 4 1](https://github.com/user-attachments/assets/e2d994c6-165d-423b-ae8f-9e38fbe21c75)
 
-![HR Data 4 2](https://github.com/user-attachments/assets/bd982b9f-4499-4d5d-90e9-2bd758ff2ef8)
+![DATA CLEANING PROCESS 4 3](https://github.com/user-attachments/assets/364afeba-5ac9-4457-93dd-77544c2c872f)
 
-![HR Data 4 1](https://github.com/user-attachments/assets/22a19d95-2930-4c16-a8bc-d770fec9cb3d)
+![DATA CLEANING IN PROCESS 4 2](https://github.com/user-attachments/assets/f262d8de-bf8a-4690-afc8-4e0bf6866216)
 
-![Clean HR Data 3](https://github.com/user-attachments/assets/4c28684d-76aa-4d47-964c-81236c24c386)
+![CLEANED DATA 4](https://github.com/user-attachments/assets/9a420196-e5f5-4735-8b34-f8f6e119d0e3)
 
-![HR Data 3 2](https://github.com/user-attachments/assets/217e06dd-99d2-45af-8de2-1f67d1038138)
+![UNCLEAN DATA 3 1](https://github.com/user-attachments/assets/a8fdedea-09bf-49d1-8db8-5c8ab70f5339)
 
-![HR Data 3 1](https://github.com/user-attachments/assets/45419a9a-693d-48ca-8a76-dcea0a196367)
+![DATA PROCESS 3  2](https://github.com/user-attachments/assets/4c9888ed-3c0b-4e08-a119-015f1622c29a)
 
-![Clean HR Data 2](https://github.com/user-attachments/assets/2dda39a7-26c1-4da2-b91f-cf0cb5be8d92)
+![CLEANED DATA 3](https://github.com/user-attachments/assets/a92796e0-b8aa-4919-89cf-1c02ce70f7b7)
 
-![HR  Data 2 1](https://github.com/user-attachments/assets/29623416-1b3c-47b1-921c-58cac9f2019f)
+![UNCLEANED DATA 2](https://github.com/user-attachments/assets/514ba2c6-6ed7-44b0-97cc-ba21327dfbca)
+
+![CLEANED Data 2](https://github.com/user-attachments/assets/41327a0b-aa08-4e86-862d-6475afa3e99c)
+
 
