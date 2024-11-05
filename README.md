@@ -2,9 +2,9 @@
 
 ## LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
-[Project Outline]
+## Project Outline
 
-[Excel Training Tasks]
+[Excel Training Tasks](excel-Training-Tasks)
 
 - [Task 1 Data Cleaning]
  
