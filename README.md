@@ -8,9 +8,9 @@
 
 - ### [Task 1 ](#task-1)
  
-- ### [Task 2 ](#task-1)
+- ### [Task ](#task-1)
   
-- ### [Task 3 ](#task-1)
+- ### [ ](#task-1)
   
 [Power BI Tasks]
 
