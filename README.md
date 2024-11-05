@@ -12,15 +12,15 @@
   
 - ### [Task 3 ](#task-1)
   
-## [Power BI Tasks ](power-bi-tasks)
+## [Power BI Tasks ](#power-bi-tasks)
 
-## [LITA CAPSTONE PROJECT DOCUMENTATION ](lita-capstone-project-documentation)
+## [LITA CAPSTONE PROJECT DOCUMENTATION ](#lita-capstone-project-documentation)
 
-## [MICROSOFT EXCEL VISUALIZATION ](microsoft-excel-visualization)
+## [MICROSOFT EXCEL VISUALIZATION ](#microsoft-excel-visualization)
 
--  [SALESDATA Visualization ](salesdata-visualization)
+-  [SALESDATA Visualization ](#salesdata-visualization)
    
--  [Customer Data Subcription Visualization ](customer-data-subscription-visualization)
+-  [Customer Data Subcription Visualization ](#customer-data-subscription-visualization)
  
 [POWER BI VISUALIZATION]
 
