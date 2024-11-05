@@ -8,7 +8,7 @@
 
 - ### [Task 1 ](#task-1)
  
-- ### [Task 2 ](#task-1)
+- ### [ Task 2 ](#task-1)
   
 - ### [ ](#task-1)
   
