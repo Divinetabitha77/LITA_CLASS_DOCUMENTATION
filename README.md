@@ -185,7 +185,7 @@
 
 
 
-### Customer Data Subcription VisUalization 
+### Customer Data Subcription Visualization 
 
 ### Customer subscription Unclean data set
 ![CUSTOMERSDATA SUBSCRIPTION DATATSET](https://github.com/user-attachments/assets/266b5f94-780d-4c98-ac13-167082d57cac)
