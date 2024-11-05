@@ -7,9 +7,10 @@
 [Excel Training Tasks]
 
 - [Task 1 Data Cleaning]
-- 
-[ - Task 2]
-[- Task 3]
+ 
+-  [Task 2]
+  
+ -[Task 3]
 [### Power BI Tasks]
 
 [### LITA CAPSTONE PROJECT DOCUMENTATION]
