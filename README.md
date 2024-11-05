@@ -2,13 +2,13 @@
 
 ## LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
-"Project Outline"
+[Project Outline]
 
 [Excel Training Tasks]
 
 - [Task 1 Data Cleaning]
  
--  [Task 2]
+- [Task 2]
   
 - [Task 3]
   
@@ -27,8 +27,11 @@
 [POWER BI SALESDATA DASHBOARD Visualization]
 
  - [SALESDATA REGIONAL DASHBOARD Visualization]
+   
  - [SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization]
+   
 [CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization]
+
  - [CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization]
 
 
