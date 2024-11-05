@@ -19,7 +19,7 @@
 [MICROSOFT EXCEL VISUALIZATION]
 
 -  [SALESDATA Visualization]
--  
+   
 -  [Customer Data Subcription Visualization]
  
 [POWER BI VISUALIZATION]
@@ -38,7 +38,7 @@
 
 
 
-## Excel Traing Tasks
+## Excel Training Tasks
 
 ### Various Excel Tasks explored in the training includes:
 
