@@ -126,3 +126,89 @@
 ![CLEANED Data 2](https://github.com/user-attachments/assets/41327a0b-aa08-4e86-862d-6475afa3e99c)
 
 
+# LITA CAPSTONE PROJECT DOCUMENTATION
+## TOOLS USED
+### The Capstone project was done using three data analytical tools:
+- Microscope Excel
+- Power BI
+- SQL
+## VISUAL PRESENTATION
+### Pictural Visualization of each of the project is documented as below
+
+## MICROSOFT EXCEL VISUALIZATION
+
+### SALESDATA Visualization
+
+![SALESDATA SET](https://github.com/user-attachments/assets/d8486feb-0032-4445-b4c4-3d502c7c36cb)
+
+![SALESDATA CLEAN DATASET](https://github.com/user-attachments/assets/5b67c8b4-0d9a-4019-94bf-ac80a231030e)
+
+![EXCEL SALESDATA PIVOT TABLE](https://github.com/user-attachments/assets/68fe20fd-4bca-47b6-97e4-4b52185a30ac)
+
+![EXCEL CUSTOMER DATA PIVOT TABLES](https://github.com/user-attachments/assets/f603fc92-e2bd-4739-8472-2b9ebdc3605d)
+
+### Customer Data Subcription VisUalization 
+
+![CUSTOMERSDATA SUBSCRIPTION DATATSET](https://github.com/user-attachments/assets/266b5f94-780d-4c98-ac13-167082d57cac)
+
+![CUSTOMER DATA PIVOT TABLE AND PIVOT CHART](https://github.com/user-attachments/assets/e2b443d4-f6b3-4139-9b57-f4f9feae8d52)
+
+![CUSTOMER DATA PIVOT TABLE AND PIVOT CHART 2](https://github.com/user-attachments/assets/366c4754-33c3-40d8-856e-15132d67bcda)
+
+![CUSTOMER DATA CLEAN DATA SET](https://github.com/user-attachments/assets/5228499a-7b3c-4d75-ab1f-7e3314f6bdf3)
+
+## POWER BI VISUALIZATION
+
+### POWER BI SALESDATA DASHBOARD Visualization
+
+![SALESDATA PERFORMANCE ANALYSIS](https://github.com/user-attachments/assets/a8d22336-4dcd-4f29-8ecc-0b77bee16e67)
+
+
+### SALESDATA REGIONAL Visualization 
+
+![SALESDATA PERFORMANCE IN WESTERN REGION](https://github.com/user-attachments/assets/8653a6cb-e672-42ca-960d-6581d9c52ba1)
+
+![SALESDATA PERFORMANCE IN SOUTHERN REGION](https://github.com/user-attachments/assets/d1744eed-896f-406d-95a7-1a744d1cd079)
+
+![SALESDATA PERFORMANCE IN NORTHERN  REGION](https://github.com/user-attachments/assets/43cd9a33-4f1e-4186-a55e-02cb85f6265b)
+
+![SALESDATA PERFORMANCE IN EASTERN REGION](https://github.com/user-attachments/assets/4eae34bc-3e61-456b-83dd-6cacc48c6c3d)
+
+### SALESDATA QUARTERLY REGIONAL Visualization
+
+![4TH  QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/9aa5d2a9-b201-4b66-8682-f1ab664410c3)
+
+![3RD QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/785f899b-391c-4abe-a861-0f43d5726fca)
+
+![2ND QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/44b12d87-5185-4780-9662-c2bc9804d54c)
+
+![1ST QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/30842ca7-6abe-4320-9f30-fe627339050a)
+
+### CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization
+
+![CUSTOMERS DATA SUBSCRIPTION](https://github.com/user-attachments/assets/8d83f29a-ab5c-4b05-9b02-eb7dde96c357)
+
+
+### CUSTOMER DATA SUBSCRIPTION REGIONAL Visualization
+
+![CUSTOMER DATA SUBSCRIPTION ANALYSIS IN WESTERN REGION](https://github.com/user-attachments/assets/e755e75a-ccf9-46f9-93ca-f6da56bff17d)
+
+![CUSTOMER DATA SUBSCRIPTION ANALYSIS IN SOUTHERN  REGION](https://github.com/user-attachments/assets/53e23395-437a-4e34-bd19-976004e3106a)
+
+![CUSTOMER DATA SUBSCRIPTION ANALYSIS IN NORTHERN  REGION](https://github.com/user-attachments/assets/5b83d24c-438c-4ef0-b976-f5954a7a1b4b)
+
+![CUSTOMER DATA SUBSCRIPTION ANALYSIS IN EASTERN  REGION](https://github.com/user-attachments/assets/7c163afa-cf1b-4807-8549-a78690710b84)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
