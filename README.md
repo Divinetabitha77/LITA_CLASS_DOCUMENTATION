@@ -2,7 +2,7 @@
 
 ## LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
-[Project Outline]
+"Project Outline"
 
 [Excel Training Tasks]
 
