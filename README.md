@@ -1,4 +1,4 @@
-# DATA ANALYSIS DOCUMENTATION USING EXCEL,SQL & POWER BI
+## DATA ANALYSIS DOCUMENTATION USING EXCEL,SQL & POWER BI
 
 ## LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
@@ -8,9 +8,9 @@
 
 - ### [Task 1 ](#task-1)
  
-- [###Task 2](task-1)
+- ### [Task 2](#task-1)
   
-- [###Task 3](task-1)
+- ### [Task 3](#task-1)
   
 [Power BI Tasks]
 
