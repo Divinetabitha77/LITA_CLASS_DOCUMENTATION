@@ -2,21 +2,24 @@
 
 ## LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
-### Excel Training Tasks
- - Task 1 Data Cleaning
- - Task 2
- - Task 3
-### Power BI Tasks
-### LITA CAPSTONE PROJECT DOCUMENTATION
-### MICROSOFT EXCEL VISUALIZATION
-  -  SALESDATA Visualization
-  -  Customer Data Subcription VisUalization
-### POWER BI VISUALIZATION
-### POWER BI SALESDATA DASHBOARD Visualization
-   - SALESDATA REGIONAL DASHBOARD Visualization
-   - SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization
-### CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization
-   - CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization
+[### Project Outline]
+[###Excel Training Tasks]
+[ - Task 1 Data Cleaning]
+[ - Task 2]
+[- Task 3]
+[### Power BI Tasks]
+
+[### LITA CAPSTONE PROJECT DOCUMENTATION]
+[### MICROSOFT EXCEL VISUALIZATION]
+ [ -  SALESDATA Visualization]
+ [-  Customer Data Subcription Visualization]
+ 
+[### POWER BI VISUALIZATION]
+[### POWER BI SALESDATA DASHBOARD Visualization]
+  [ - SALESDATA REGIONAL DASHBOARD Visualization]
+  [ - SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization]
+[### CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization]
+   [- CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization]
 
 
 
