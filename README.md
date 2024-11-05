@@ -8,19 +8,19 @@
 
 - ### [Task 1 ](#task-1)
  
-- ### [ Task 2 ](#task-1)
+- ### [Task 2 ](#task-1)
   
-- ### [ ](#task-1)
+- ### [Task 3 ](#task-1)
   
-[Power BI Tasks]
+## [Power BI Tasks ](power-bi-tasks)
 
-[LITA CAPSTONE PROJECT DOCUMENTATION]
+## [LITA CAPSTONE PROJECT DOCUMENTATION ](lita-capstone-project-documentation)
 
-[MICROSOFT EXCEL VISUALIZATION]
+## [MICROSOFT EXCEL VISUALIZATION ](microsoft-excel-visualization)
 
--  [SALESDATA Visualization]
+-  [SALESDATA Visualization ](salesdata-visualization)
    
--  [Customer Data Subcription Visualization]
+-  [Customer Data Subcription Visualization ](customer-data-subscription-visualization)
  
 [POWER BI VISUALIZATION]
 
