@@ -2,15 +2,21 @@
 
 ## LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
--Excel Training Tasks
+Excel Training Tasks
  - Task 1 Data Cleaning
  - Task 2
  - Task 3
--Power BI Tasks
--LITA CAPSTONE PROJECT DOCUMENTATION
-  - MICROSOFT EXCEL VISUALIZATION
-
-
+Power BI Tasks
+LITA CAPSTONE PROJECT DOCUMENTATION
+MICROSOFT EXCEL VISUALIZATION
+  -  SALESDATA Visualization
+  -  Customer Data Subcription VisUalization
+POWER BI VISUALIZATION
+POWER BI SALESDATA DASHBOARD Visualization
+   - SALESDATA REGIONAL DASHBOARD Visualization
+   - SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization
+CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization
+   - CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization
 
 
 
@@ -163,8 +169,8 @@
 
 
 
-
 ### Customer Data Subcription VisUalization 
+
 ### Customer subscription Unclean data set
 ![CUSTOMERSDATA SUBSCRIPTION DATATSET](https://github.com/user-attachments/assets/266b5f94-780d-4c98-ac13-167082d57cac)
 ### Customer Subscrition Clean dataset
@@ -183,7 +189,7 @@
 ![SALESDATA PERFORMANCE ANALYSIS](https://github.com/user-attachments/assets/a8d22336-4dcd-4f29-8ecc-0b77bee16e67)
 
 
-### SALESDATA REGIONAL Visualization 
+### SALESDATA REGIONAL DASHBOARD Visualization 
 
 
 ### SALESDATA WESTERN REGIONAL SALES
@@ -204,7 +210,7 @@
 
 
 
-### SALESDATA QUARTERLY REGIONAL Visualization
+### SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization
 
 
  ### SALESDATA FIRST QUARTER REGIONAL Visualization
@@ -225,13 +231,12 @@
 
 
 
-
 ### CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization
 
 ![CUSTOMERS DATA SUBSCRIPTION](https://github.com/user-attachments/assets/8d83f29a-ab5c-4b05-9b02-eb7dde96c357)
 
 
-### CUSTOMER DATA SUBSCRIPTION REGIONAL Visualization
+### CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization
 
 
 ### CUSTOMER DATA SUBSCRIPTION WESTERN REGION
