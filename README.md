@@ -4,13 +4,13 @@
 
 ## Project Outline
 
-## [Excel Training Tasks](#excel-Training-Tasks)
+## [Excel Training Tasks ](#excel-Training-Tasks)
 
 - ### [Task 1 ](#task-1)
  
-- ### [Task 2](#task-1)
+- ### [Task 2 ](#task-1)
   
-- ### [Task 3](#task-1)
+- ### [Task 3 ](#task-1)
   
 [Power BI Tasks]
 
