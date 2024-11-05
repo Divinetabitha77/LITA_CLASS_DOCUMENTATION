@@ -2,7 +2,21 @@
 
 ## LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
-## Excel Tasks
+-Excel Training Tasks
+ - Task 1 Data Cleaning
+ - Task 2
+ - Task 3
+-Power BI Tasks
+-LITA CAPSTONE PROJECT DOCUMENTATION
+  - MICROSOFT EXCEL VISUALIZATION
+
+
+
+
+
+
+
+## Excel Traing Tasks
 
 ### Various Excel Tasks explored in the training includes:
 
@@ -11,7 +25,7 @@
 - Data cleaning and Formating
 - Exploratory Data Analysis for useful insight generation
 
-### Task 1 Data Cleaning
+### Task 1 
 ### Task 1 includes Steps involved in data cleaning which is not limited to Removing Duplicates
 - Trimming Extra Spaces
 - Handling Blank Cells
@@ -170,6 +184,8 @@
 
 
 ### SALESDATA REGIONAL Visualization 
+
+
 ### SALESDATA WESTERN REGIONAL SALES
 
 ![SALESDATA PERFORMANCE IN WESTERN REGION](https://github.com/user-attachments/assets/8653a6cb-e672-42ca-960d-6581d9c52ba1)
@@ -186,27 +202,28 @@
 
 ![SALESDATA PERFORMANCE IN EASTERN REGION](https://github.com/user-attachments/assets/4eae34bc-3e61-456b-83dd-6cacc48c6c3d)
 
+
+
 ### SALESDATA QUARTERLY REGIONAL Visualization
 
 
  ### SALESDATA FIRST QUARTER REGIONAL Visualization
 
+![1ST QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/30842ca7-6abe-4320-9f30-fe627339050a)
 
-
-
-![4TH  QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/9aa5d2a9-b201-4b66-8682-f1ab664410c3)
-
- ### SALESDATA FOURTH QUARTER REGIONAL Visualization
-
-![3RD QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/785f899b-391c-4abe-a861-0f43d5726fca)
-
- ### SALESDATA THIRD QUARTER REGIONAL Visualization
+### SALESDATA SECOND QUARTER REGIONAL Visualization
 
 ![2ND QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/44b12d87-5185-4780-9662-c2bc9804d54c)
 
- ### SALESDATA SECOND QUARTER REGIONAL Visualization
+ ### SALESDATA THIRD QUARTER REGIONAL Visualization
 
-![1ST QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/30842ca7-6abe-4320-9f30-fe627339050a)
+![3RD QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/785f899b-391c-4abe-a861-0f43d5726fca)
+
+ ### SALESDATA FOURTH QUARTER REGIONAL Visualization
+
+![4TH  QUARTER REGIONAL SALESDATA PERFORMANCE](https://github.com/user-attachments/assets/9aa5d2a9-b201-4b66-8682-f1ab664410c3)
+
+
 
 
 ### CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization
@@ -215,6 +232,7 @@
 
 
 ### CUSTOMER DATA SUBSCRIPTION REGIONAL Visualization
+
 
 ### CUSTOMER DATA SUBSCRIPTION WESTERN REGION
 
