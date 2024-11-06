@@ -8,7 +8,7 @@
 
 - ### [Task 1 ](#task-1)
  
-- ###
+-  ### [Task 2 ](#task-2)
   
 - ###
   
@@ -21,8 +21,9 @@
 ## [MICROSOFT EXCEL VISUALIZATION ](#microsoft-excel-visualization)
 
 -  [SALESDATA Visualization ](#salesdata-visualization)
+
+- [Customer Data Subcription Visualization ](#customer-data-subscription-visualization)
    
--  
  
 ## [POWER BI VISUALIZATION ](#power-bi-visualization)
 
@@ -32,9 +33,9 @@
    
  - [SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization ](#salesdata-quarterly-regional-dashboard-visualization)
    
-[CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization]
+## [CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization ](#customer-data-subscription_dashboard_visualization)
 
- - [CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization]
+ - [CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization] (#customer-data-subscription-regional-dashboard-visualization)
 
 
 
