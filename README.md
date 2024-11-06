@@ -176,7 +176,7 @@
 
 ## MICROSOFT EXCEL VISUALIZATION 
 
-![download here](https://github.com/Divinetabitha77/LITA_CLASS_DOCUMENTATION/commit/9e182d13a0ecd330dca685072d96f4ba7dc3d6c1)
+[download here](https://github.com/Divinetabitha77/LITA_CLASS_DOCUMENTATION/commit/9e182d13a0ecd330dca685072d96f4ba7dc3d6c1)
 
 ### SALESDATA Visualization
 ### uncleaned Salesdata set
