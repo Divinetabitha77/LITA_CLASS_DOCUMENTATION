@@ -1,31 +1,31 @@
 ## DATA ANALYSIS DOCUMENTATION USING EXCEL,SQL & POWER BI
 
-## LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
+### LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
-## Project Outline
+### Project Outline
 
-## [Excel Training Tasks ](#excel-Training-Tasks)
+### [Excel Training Tasks ](#excel-Training-Tasks)
 
 - ### [Task 1 ](#task-1)
  
 -  ### [Task 2 ](#task-2)
   
-- ###
+- ### [Task 3 ](#task-3))
   
-- ###
+- ### [Task 4 ](#task-4)
   
-## [Power BI Tasks ](#power-bi-tasks)
+### [Power BI Tasks ](#power-bi-tasks)
 
-## [LITA CAPSTONE PROJECT DOCUMENTATION ](#lita-capstone-project-documentation)
+### [LITA CAPSTONE PROJECT DOCUMENTATION ](#lita-capstone-project-documentation)
 
-## [MICROSOFT EXCEL VISUALIZATION ](#microsoft-excel-visualization)
+### [MICROSOFT EXCEL VISUALIZATION ](#microsoft-excel-visualization)
 
 -  [SALESDATA Visualization ](#salesdata-visualization)
 
 - [Customer Data Subcription Visualization ](#customer-data-subscription-visualization)
    
  
-## [POWER BI VISUALIZATION ](#power-bi-visualization)
+### [POWER BI VISUALIZATION ](#power-bi-visualization)
 
 ### [POWER BI SALESDATA DASHBOARD Visualization ](#power-bi-salesdata-dashboard-visualization)
 
@@ -33,9 +33,9 @@
    
  - [SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization ](#salesdata-quarterly-regional-dashboard-visualization)
    
-## [CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization ](#customer-data-subscription_dashboard_visualization)
+### [CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization ](#customer-data-subscription_dashboard_visualization)
 
- - [CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization] (#customer-data-subscription-regional-dashboard-visualization)
+ - [CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization ](#customer-data-subscription-regional-dashboard-visualization)
 
 
 
