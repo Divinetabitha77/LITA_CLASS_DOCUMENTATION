@@ -8,9 +8,11 @@
 
 - ### [Task 1 ](#task-1)
  
-- ### [Task 2 ](#task-1)
+- ###
   
-- ### [Task 3 ](#task-1)
+- ###
+  
+- ###
   
 ## [Power BI Tasks ](#power-bi-tasks)
 
@@ -20,15 +22,15 @@
 
 -  [SALESDATA Visualization ](#salesdata-visualization)
    
--  [Customer Data Subcription Visualization ](#customer-data-subscription-visualization)
+-  
  
-[POWER BI VISUALIZATION]
+## [POWER BI VISUALIZATION ](#power-bi-visualization)
 
-[POWER BI SALESDATA DASHBOARD Visualization]
+### [POWER BI SALESDATA DASHBOARD Visualization ](#power-bi-salesdata-dashboard-visualization)
 
- - [SALESDATA REGIONAL DASHBOARD Visualization]
+ - [SALESDATA REGIONAL DASHBOARD Visualization ](#salesdata-regional-dashboard-visualization)
    
- - [SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization]
+ - [SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization] (#salesdata-quarterly-regional-dashboard-visualization)
    
 [CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization]
 
