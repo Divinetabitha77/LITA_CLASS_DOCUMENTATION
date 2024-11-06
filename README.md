@@ -33,7 +33,7 @@
    
  - [SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization ](#salesdata-quarterly-regional-dashboard-visualization)
    
-### [CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization ](#customer-data-subscription_dashboard_visualization)
+### [CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization ](#customer-data-subscription-dashboard-visualization)
 
  - [CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization ](#customer-data-subscription-regional-dashboard-visualization)
 
