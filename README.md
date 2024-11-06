@@ -174,7 +174,9 @@
 ## VISUAL PRESENTATION
 ### Pictural Visualization of each of the project is documented as below
 
-## MICROSOFT EXCEL VISUALIZATION [Download]
+## MICROSOFT EXCEL VISUALIZATION 
+
+![download here](https://github.com/Divinetabitha77/LITA_CLASS_DOCUMENTATION/commit/9e182d13a0ecd330dca685072d96f4ba7dc3d6c1)
 
 ### SALESDATA Visualization
 ### uncleaned Salesdata set
