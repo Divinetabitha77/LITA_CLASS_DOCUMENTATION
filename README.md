@@ -30,7 +30,7 @@
 
  - [SALESDATA REGIONAL DASHBOARD Visualization ](#salesdata-regional-dashboard-visualization)
    
- - [SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization] (#salesdata-quarterly-regional-dashboard-visualization)
+ - [SALESDATA QUARTERLY REGIONAL DASHBOARD Visualization ](#salesdata-quarterly-regional-dashboard-visualization)
    
 [CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization]
 
