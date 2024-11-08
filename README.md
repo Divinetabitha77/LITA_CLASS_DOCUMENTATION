@@ -281,9 +281,9 @@
 
 ![CUSTOMER DATA SUBSCRIPTION ANALYSIS IN EASTERN  REGION](https://github.com/user-attachments/assets/7c163afa-cf1b-4807-8549-a78690710b84)
 
+## SQL QUERY
 
-## SQL QUERY Visualization
-### SQL SALESDATA QUERY
+### SQL SALESDATA Query Visualiztion
 
 ![SALESDATA SQL QUERY 1](https://github.com/user-attachments/assets/1f3542fb-4ce0-47f7-94e7-be8e051ed89c)
 
@@ -293,7 +293,7 @@
 
 ![SALESDATA SQL QUERY 3](https://github.com/user-attachments/assets/ae0abed2-853f-4eae-a6e3-8bbb8a2a7971)
 
-### SQL CONSUMERSDATA QUERY
+### SQL CONSUMERSDATA Query Visualization
 
 ![Customerdata SQL 1](https://github.com/user-attachments/assets/d1922bb5-74c9-4bbd-b5b9-c1eec70fa3b8)
 
