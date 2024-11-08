@@ -26,9 +26,9 @@
 
 ### [SQL QUERY ](#sql-query)
 
-- [SQL SALESDATA Query Visualiztion](#sql-salesdata-query-visualization)
+- [SQL SALESDATA Query Visualiztion ](#sql-salesdata-query-visualization)
 
-- [SQL CONSUMERSDATA Query Visualization](#sql-consumer-query-visualization)
+- [SQL CONSUMERSDATA Query Visualization ](#sql-consumer-query-visualization)
    
  
 ### [POWER BI VISUALIZATION ](#power-bi-visualization)
