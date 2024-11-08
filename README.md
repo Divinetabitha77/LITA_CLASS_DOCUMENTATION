@@ -2,21 +2,21 @@
 
 ### LADIES IN TECH DATA ANALYTICS TRAINING DOCUMENTATION
 
-### Project Outline
-
 ### [Excel Training Tasks ](#excel-Training-Tasks)
 
 - ### [Task 1 ](#task-1)
  
 -  ### [Task 2 ](#task-2)
   
-- ### [Task 3 ](#task-3))
+- ### [Task 3 ](#task-3)
   
 - ### [Task 4 ](#task-4)
   
 ### [Power BI Tasks ](#power-bi-tasks)
 
 ### [LITA CAPSTONE PROJECT DOCUMENTATION ](#lita-capstone-project-documentation)
+
+### [Project Overview ](#project-overview)
 
 ### [MICROSOFT EXCEL VISUALIZATION ](#microsoft-excel-visualization)
 
