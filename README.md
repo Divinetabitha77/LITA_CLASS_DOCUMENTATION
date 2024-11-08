@@ -23,13 +23,6 @@
 -  [SALESDATA Visualization ](#salesdata-visualization)
 
 - [Customer Data Subcription Visualization ](#customer-data-subscription-visualization)
-
-### [SQL QUERY ](#sql-query)
-
-- [SQL SALESDATA Query Visualiztion ](#sql-salesdata-query-visualization)
-
-- [SQL CONSUMERSDATA Query Visualization ](#sql-consumer-query-visualization)
-   
  
 ### [POWER BI VISUALIZATION ](#power-bi-visualization)
 
@@ -42,6 +35,13 @@
 ### [CUSTOMER DATA SUBSCRIPTION DASHBOARD Visualization ](#customer-data-subscription-dashboard-visualization)
 
  - [CUSTOMER DATA SUBSCRIPTION REGIONAL DASHBOARD Visualization ](#customer-data-subscription-regional-dashboard-visualization)
+
+  ### [SQL QUERY ](#sql-query)
+
+- [SQL SALESDATA Query Visualiztion ](#sql-salesdata-query-visualization)
+
+- [SQL CONSUMERSDATA Query Visualization ](#sql-consumer-query-visualization)
+   
 
 
 
