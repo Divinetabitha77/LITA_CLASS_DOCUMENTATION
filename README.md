@@ -23,6 +23,12 @@
 -  [SALESDATA Visualization ](#salesdata-visualization)
 
 - [Customer Data Subcription Visualization ](#customer-data-subscription-visualization)
+
+### [SQL QUERY ](#sql-query)
+
+- [SQL SALESDATA Query Visualiztion](#sql-salesdata-query-visualization)
+
+- [SQL CONSUMERSDATA Query Visualization](#sql-consumer-query-visualization)
    
  
 ### [POWER BI VISUALIZATION ](#power-bi-visualization)
@@ -201,6 +207,69 @@
 
 ![CUSTOMER DATA PIVOT TABLE AND PIVOT CHART 2](https://github.com/user-attachments/assets/366c4754-33c3-40d8-856e-15132d67bcda)
 
+##SQL query on Customerdata
+
+#### ****** Script for SelectTopNRows command from SSMS  ******/
+``` SELECT TOP (1000) [CustomerID]
+      ,[CustomerName]
+      ,[Region]
+      ,[SubscriptionType]
+      ,[SubscriptionStart]
+      ,[SubscriptionEnd]
+      ,[Canceled]
+      ,[Revenue]
+  FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+
+  SELECT * 
+   FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+
+
+  --- Total Customers by Region
+  SELECT Region, COUNT(CustomerID) AS TotalCustomers
+   FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+  GROUP BY Region;
+
+--- Most Popular Subscription Type
+  SELECT SubscriptionType, COUNT(CustomerID) AS TotalCustomers,
+  FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+  GROUP BY SubscriptionType;
+  ORDER BY TotalCustomers DESC;
+  LIMIT1;
+
+---  Customers Who Canceled within 6 Months
+  SELECT CustomerID, CustomerName, SubscriptionType, 
+       DATEDIFF(MONTH, SubscriptionStart, SubscriptionEnd) AS Duration_Months
+  FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+  WHERE Canceled = 'TRUE' AND DATEDIFF(MONTH, SubscriptionStart, SubscriptionEnd) <= 6;
+
+--- Average Subscription Duration
+  SELECT AVG(DATEDIFF(MONTH, SubscriptionStart, SubscriptionEnd)) AS AvgDuration
+   FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+
+--- Customers with Subscriptions Longer than 12 Months
+  SELECT CustomerID, CustomerName, SubscriptionType, 
+       DATEDIFF(MONTH, SubscriptionStart, SubscriptionEnd) AS DurationMonths
+   FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+  WHERE DATEDIFF(MONTH, SubscriptionStart, SubscriptionEnd) > 12;
+
+--- Total Revenue by Subscription Type
+  SELECT SubscriptionType, SUM(Revenue) AS TotalRevenue
+  FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+  GROUP BY SubscriptionType;
+
+--- Top 3 Regions by Subscription Cancellations
+  SELECT Region, COUNT(CustomerID) AS Cancellations
+  FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+  WHERE Canceled = 'TRUE'
+  GROUP BY Region
+  ORDER BY Cancellations DESC
+  LIMIT3;
+
+--- Total Active and Canceled Subscriptions
+  SELECT Canceled, COUNT(CustomerID) AS TotalSubscriptions
+  FROM [LITA_DATABASE].[dbo].[CUSTOMERSDATA]
+  GROUP BY Canceled;
+
 
 
 ## POWER BI VISUALIZATION
@@ -277,17 +346,22 @@
 ![CUSTOMER DATA SUBSCRIPTION ANALYSIS IN EASTERN  REGION](https://github.com/user-attachments/assets/7c163afa-cf1b-4807-8549-a78690710b84)
 
 
+## SQL QUERY Visualization
+### SQL SALESDATA QUERY
 
+![SALESDATA SQL QUERY 1](https://github.com/user-attachments/assets/1f3542fb-4ce0-47f7-94e7-be8e051ed89c)
 
+![SALESDATA SQL QUERY 2](https://github.com/user-attachments/assets/32f36f7d-737a-4837-b974-69908cb5a4cc)
 
+![SALESDATA SQL QUERY 4](https://github.com/user-attachments/assets/e8efc5fe-2ba4-4bfe-ac28-eb7f5528224e)
 
+![SALESDATA SQL QUERY 3](https://github.com/user-attachments/assets/ae0abed2-853f-4eae-a6e3-8bbb8a2a7971)
 
+### SQL CONSUMERSDATA QUERY
 
+![Customerdata SQL 1](https://github.com/user-attachments/assets/d1922bb5-74c9-4bbd-b5b9-c1eec70fa3b8)
 
+![Customerdata SQL 2](https://github.com/user-attachments/assets/cab1ad9f-17fc-4716-8dfd-e1276b11b33f)
 
-
-
-
-
-
+![Customerdata SQL 3](https://github.com/user-attachments/assets/82d723c8-2582-48f0-8f1c-c344f3d67dc3)
 
