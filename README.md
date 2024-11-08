@@ -38,7 +38,7 @@
 
   ### [SQL QUERY ](#sql-query)
 
-- [SQL SALESDATA Query Visualiztion ](#sql-salesdata-query-visualization)
+- [SQL SALESDATA Query Visualization ](#sql-salesdata-query-visualization)
 
 - [SQL CONSUMERSDATA Query Visualization ](#sql-consumersdata-query-visualization)
    
