@@ -40,7 +40,7 @@
 
 - [SQL SALESDATA Query Visualiztion ](#sql-salesdata-query-visualization)
 
-- [SQL CONSUMERSDATA Query Visualization ](#sql-consumer-query-visualization)
+- [SQL CONSUMERSDATA Query Visualization ](#sql-consumersdata-query-visualization)
    
 
 
